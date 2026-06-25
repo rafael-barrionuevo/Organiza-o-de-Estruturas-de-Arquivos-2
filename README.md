@@ -7,7 +7,7 @@
 - MARIA LUIZA BERTIN DOS SANTOS
 - ERICK RICARDO BAIAO BATISTA PEREIRA
 - GUSTAVO ANDRADE DE SOUZA
-- Matheus Alexandre Ferreira Leite
+- MATHEUS ALEXANDRE FERREIRA LEITE
 
 Este repositório está dividido em duas partes principais:
 
